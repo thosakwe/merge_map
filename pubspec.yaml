@@ -1,6 +1,6 @@
 name: merge_map
 description: Combine multiple Maps into one. Equivalent to Object.assign in JS.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/thosakwe/merge_map
 author: Tobe O <thosakwe@gmail.com>
 environment:
